@@ -8,7 +8,7 @@ dev2 chnaged
 
 <<<<<<< HEAD
 
-change at line 10 by dev1
+change at line 10 by dev1 - CLI
 =======
-Changed at line 9
+Changed at line 9 by dev 2 - github UI
 >>>>>>> 3b2bc60c4da537f7d485ddf3180bb3f50d030fe1
